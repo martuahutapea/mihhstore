@@ -1,7 +1,7 @@
 # MihhStore E-commerce
 
 <div align="center">
-  <img src="public/assets/images/readme.png" alt="Homepage Screenshot" border-radius="15px" />
+  <img src="/public/assets/images/readme.png" alt="Homepage Screenshot" border-radius="15px" />
 </div>
 
 Check out the live demo of the project: [View Demo](#)
